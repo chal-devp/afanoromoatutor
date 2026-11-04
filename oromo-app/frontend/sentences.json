@@ -1,0 +1,16 @@
+[
+{"id":"s1","om":"Akkam jirta?","am":"እንዴት ነህ?","en":"How are you?","reviewed":false},
+{"id":"s2","om":"Nagaan jira.","am":"ደህና ነኝ።","en":"I am fine.","reviewed":false},
+{"id":"s3","om":"Galatoomi.","am":"አመሰግናለሁ።","en":"Thank you.","reviewed":false},
+{"id":"s4","om":"Baga nagaan dhuftan.","am":"እንኳን ደህና መጣችሁ።","en":"Welcome.","reviewed":false},
+{"id":"s5","om":"Maqaan kee eenyu?","am":"ስምህ ማን ነው?","en":"What is your name?","reviewed":false},
+{"id":"s6","om":"Afaan Oromoo nan baradha.","am":"ኦሮምኛ እየተማርኩ ነው።","en":"I am learning Oromo.","reviewed":false},
+{"id":"s7","om":"Bishaan nan barbaada.","am":"ውሃ እፈልጋለሁ።","en":"I want water.","reviewed":false},
+{"id":"s8","om":"Eessa deemta?","am":"ወዴት ትሄዳለህ?","en":"Where are you going?","reviewed":false},
+{"id":"s9","om":"Sa'aatiin meeqa dha?","am":"ስንት ሰዓት ነው?","en":"What time is it?","reviewed":false},
+{"id":"s10","om":"Nagaatti.","am":"ደህና ሁን።","en":"Goodbye.","reviewed":false},
+{"id":"s11","om":"Rakkoon hin jiru.","am":"ችግር የለም።","en":"No problem.","reviewed":false},
+{"id":"s12","om":"Buna nan dhugaa.","am":"ቡና እጠጣለሁ።","en":"I drink coffee.","reviewed":false},
+{"id":"s13","om":"Maaliif?","am":"ለምን?","en":"Why?","reviewed":false},
+{"id":"s14","om":"Maal jechuu dha?","am":"ምን ማለት ነው?","en":"What does it mean?","reviewed":false}
+]

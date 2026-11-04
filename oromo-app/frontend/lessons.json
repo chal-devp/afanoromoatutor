@@ -1,0 +1,12 @@
+[
+ {"id":"greetings","title":"Greetings · ሰላምታ","words":[
+  {"om":"Akkam","am":"እንዴት","en":"How are you (informal)"},
+  {"om":"Nagaa","am":"ሰላም","en":"Peace / hello"},
+  {"om":"Galatoomi","am":"አመሰግናለሁ","en":"Thank you"},
+  {"om":"Baga nagaan dhufte","am":"እንኳን ደህና መጣህ","en":"Welcome"},
+  {"om":"Nagaatti","am":"ደህና ሁን","en":"Goodbye"}]},
+ {"id":"numbers","title":"Numbers · ቁጥሮች","words":[
+  {"om":"Tokko","am":"አንድ","en":"One"},{"om":"Lama","am":"ሁለት","en":"Two"},
+  {"om":"Sadii","am":"ሶስት","en":"Three"},{"om":"Afur","am":"አራት","en":"Four"},
+  {"om":"Shan","am":"አምስት","en":"Five"}]}
+]
